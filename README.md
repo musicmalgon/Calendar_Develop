@@ -10,3 +10,5 @@
 |댓글조회|GET|/api/calendar/{commentId}|List<CommentResponseDto>|
 |댓글수정|PUT|/api/calendar/{commentId}|Long|
 |댓글삭제|DELETE|/api/calendar/{commentId}|Long|
+
+![image](https://github.com/user-attachments/assets/7e3e2345-9d05-47a8-bd4b-d68bcfb9e1a7)
